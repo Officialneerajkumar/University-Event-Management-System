@@ -1,0 +1,57 @@
+/*.a-div{
+    padding: 40px 40px 40px 40px;
+    background-color: aqua;
+    
+}
+
+a:hover{
+    color:orange;
+    padding: 40px 40px 40px 40px;
+    background-color: blue;
+    height: 40px;
+    width: 40px;
+}
+**/
+body{
+    margin-top: 0px;
+}
+.a-div{
+    height:100px;
+    width: 100px;
+}
+.item{
+    margin-top: 20%;
+    text-align: center; 
+    
+}
+.item >a:hover{
+    color:#f47f24;
+}
+.btn-col {
+    background-color: #f47f24;
+    color: white;
+  }
+  .form-control:focus, .form-control:active {
+    outline: none !important;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: 1px solid #f47f24; }
+/**navigation css start*/
+.ap{
+    background-color: #281c5f;
+}
+.navitem {
+    background-color: #281c5f;
+    position: sticky;
+    top: 0px;
+}
+
+
+.sidenav {
+    background-color:#39229f;
+
+}
+.profile{
+   padding-right: 50px;
+}
+/**navigation css end*/

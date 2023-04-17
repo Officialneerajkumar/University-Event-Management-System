@@ -1,0 +1,35 @@
+.navitem{
+    background-color:	#281c5f;
+}
+.fn{
+    font-size: large;
+}
+.navlogin{
+    color: white;
+    
+    background-color: #f47f24;
+    padding: 10px;
+    width: 110px;
+    text-align: center;
+
+    top: 0;
+    margin-right: 15px;
+    margin-top: 5px;
+
+    border-radius: 30px;
+
+}
+.profile{
+    padding-right: 50px;
+ }
+.about{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+h5{
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+
